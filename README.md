@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Ali</h1>
 <h3 align="center">A passionate Flutter developer from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadali369" alt="ahmadali369" /></a> </p>
-
 - 🌱 I’m currently learning **Advanced Flutter**
 
 - 🤝 I’m looking for help with **Google Developer Account**
@@ -20,4 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadali369&show_icons=true&theme=dark&title_color=949494&text_color=9e9e9e&bg_color=000000&hide_border=true&locale=en" alt="ahmadali369" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadali369&" alt="ahmadali369" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadali369&theme=dark" alt="ahmadali369" /></p>
